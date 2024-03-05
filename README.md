@@ -16,7 +16,7 @@
 
 [基于ESP8266和Zigbee的宿舍火情监测预警系统](https://wenku.baidu.com/view/f26f8cf55322aaea998fcc22bcd126fff6055d59?_wkts_=1709603353694)
 
-[https://gitee.com/rise2629/esp-intelligent-security](https://gitee.com/rise2629/esp-intelligent-security)
+[基于esp8266单片机的智能安防报警系统设计与实现](https://gitee.com/rise2629/esp-intelligent-security)
 ## 寻路算法
 
 寻路算法部分是整个系统的核心，这里我们使用了A star算法，A star 最有用的地方在于代价可控，你可以通过调整代价来选择深度优先或广度有点。
